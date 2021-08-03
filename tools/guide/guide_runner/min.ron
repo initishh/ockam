@@ -1,0 +1,6 @@
+(
+    title: "Getting Started Guide",
+    stages: [
+        ["04-routing-over-transport-responder", "04-routing-over-transport-initiator"],
+    ]
+)
